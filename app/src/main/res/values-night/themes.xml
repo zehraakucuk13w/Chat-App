@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Main app theme -->
+    <style name="Theme.ChatApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorAccent">@color/black</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <!-- Splash screen theme -->
+    <style name="Theme.ChatApp.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/ecru</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/chatapplogo</item>
+        <item name="postSplashScreenTheme">@style/Theme.ChatApp</item>
+    </style>
+
+</resources>
