@@ -1,6 +1,6 @@
 # ChatApp
 
-A simple and elegant Android messaging application built with Java and AI-powered chatbot using Google Gemini API.
+An elegant Android messaging application built with Java and AI-powered chatbot using Google Gemini API.
 
 ## Features
 
